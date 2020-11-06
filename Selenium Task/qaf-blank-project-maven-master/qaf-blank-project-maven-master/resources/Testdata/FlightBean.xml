@@ -1,0 +1,15 @@
+<root>
+	<data>
+		<register>
+			<user>
+				<passengers>1</passengers>
+				<DeptFrom>Portland</DeptFrom>
+				<FromMonth>March</FromMonth>
+				<Fromday>29</Fromday>
+				<Arrive>New York</Arrive>
+				<toMonth>April</toMonth>
+				<today>2</today>
+			</user>
+		</register>
+	</data>
+</root>

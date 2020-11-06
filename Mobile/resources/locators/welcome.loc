@@ -1,0 +1,15 @@
+Create.Welcome.radio=xpath=//android.view.View[@text='Create account. New to Amazon?']
+Login.Welcome.radio=xpath=//android.view.View[@text='Login. Already a customer?']
+Welcome.Mobile.txt=id=ap_email_login
+Welcome.Continue.button=xpath=//android.widget.Button[@text='Continue']
+Welcome.Name.txt=id=ap_customer_name
+Welcome.createmobile.txt=id=ap_phone_number
+Welcome.createemail.txt=id=ap_email
+Welcome.createpassword.txt=id=ap_password
+Welcome.showpassword.checkbox=xpath=//android.widget.CheckBox[@text='Show password']
+Welcome.verifymobile.button=id=continue
+Welcome.verifytext.label=xpath=//android.view.View[@text='Verify mobile number']
+Welcome.OTP.txt=id=auth-pv-enter-code
+Welcome.verifyOTP.button=xpath=//android.widget.Button[@text='Verify']
+Welcome.message.lbl=xpath=//android.view.View[@text='You indicated you are a new customer, but an account already exists with the mobile phone number ']
+Welcome.mobilemessage.lbl=xpath=//android.view.View[@text='You indicated you are a new customer, but an account already exists with the mobile phone number ']/following-sibling::android.view.View[1]

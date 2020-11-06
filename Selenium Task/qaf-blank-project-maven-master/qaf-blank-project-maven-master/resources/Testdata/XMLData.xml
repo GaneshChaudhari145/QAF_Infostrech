@@ -1,0 +1,16 @@
+<root>
+	<login>
+		<data>
+			<username>guest</username>
+			<password>guest123</password>
+		</data>
+		<data>
+			<username>guest123</username>
+			<password>guest</password>
+		</data>
+		<data>
+			<username>guest123</username>
+			<password>guest123</password>
+		</data>
+	</login>
+</root>	

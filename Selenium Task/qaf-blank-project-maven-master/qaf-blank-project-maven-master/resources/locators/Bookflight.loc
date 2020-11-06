@@ -1,0 +1,22 @@
+summary.departflightplace.label=css=tr:nth-child(1) td.frame_header_info:nth-child(1) b
+summary.departflightdate.label=css=tr:nth-child(1) td.frame_header_info:nth-child(2) b
+summary.departflightname.label=css=tr:nth-child(3) > td.data_left
+summary.departflightclass.label=css=tr:nth-child(3) > td.data_center_mono
+summary.departflightprice.label=css=tr:nth-child(3) > td.data_center
+summary.returnflightplace.label=css=tr:nth-child(4) > td.data_left
+summary.returnflightdate.label=css=tr:nth-child(4) > td.data_center_mono
+summary.returnflightname.label=css=tr:nth-child(6) > td.data_left
+summary.returnflightclass.label=css=tr:nth-child(6) > td.data_center_mono
+summary.returnflightprice.label=css=tr:nth-child(6) > td.data_center
+summary.passengerno.label=css=tr:nth-child(7) > td.data_left:nth-child(2)
+summary.taxes.label=css=tr:nth-child(8) > td.data_left:nth-child(2)
+summary.totalprice.label=css=tr:nth-child(9) > td.data_left:nth-child(2)
+
+passenger.firstname.txt=xpath=//input[@name='passFirst0']
+passenger.lastname.txt=xpath=//input[@name='passLast0']
+passenger.creditcard.dd=xpath=//select[@name='creditCard']
+passenger.creditnumber.txt=xpath=//input[@name='creditnumber']
+passenger.expirymonth.dd=xpath=//select[@name='cc_exp_dt_mn']
+passenger.expiryyear.dd=xpath=//select[@name='cc_exp_dt_yr']
+passenger.securepurchase.btn=xpath=//input[@name='buyFlights']
+passenger.deliverycountry.dd=xpath=//select[@name='delCountry']

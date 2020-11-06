@@ -1,0 +1,4 @@
+invalidsigninpage.username.txt=xpath=//input[@name='userName']
+invalidsigninpage.password.txt=xpath=//input[@name='password']
+invalidsigninpage.login.btn=xpath=//input[@name='login']
+invalidsigninpage.signon.img=xpath=//img[contains(@src,'/images/masts/mast_signon.gif')]

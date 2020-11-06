@@ -1,0 +1,6 @@
+confirmflight.confirmationtitle.lbl=xpath=//font[@size='+1']
+confirmflight.totalprice.lbl=css=font:nth-child(1) b:nth-child(1) font:nth-child(1) > font:nth-child(1)
+confirmflight.logout.btn=xpath=//img[@src='/images/forms/Logout.gif']
+confirmflight.deptplace.lbl=css=tr:nth-child(3) td.frame_header_info font:nth-child(1) > b:nth-child(1)
+confirmflight.returnplace.lbl=css=tr:nth-child(5) > td > font > b
+confirmflight.flights.btn=xpath=//img[@src='/images/forms/backtoflights.gif']

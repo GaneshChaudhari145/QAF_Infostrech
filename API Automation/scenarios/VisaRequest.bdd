@@ -1,0 +1,4 @@
+SCENARIO: "Apply Visa Request Test" 
+META-DATA: {"description": "Visa Request API Test"} 
+Given Check Web Service For Visa Request API Task 
+END

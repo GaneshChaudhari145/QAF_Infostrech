@@ -1,0 +1,6 @@
+Login.Password.txt=id=ap_password
+Login.login.btn=xpath=//android.widget.Button[@text='Login']
+Login.shopcategory.menu=id=web_home_shop_by_department_label
+Login.search.edittext=xpath=//android.widget.EditText[@text='Search']
+Login.deliverylocation.txt=xpath=//android.widget.TextView[@text='Select a location to see product availability']
+Login.filter.dd=xpath=//android.widget.TextView[@text='Filter']

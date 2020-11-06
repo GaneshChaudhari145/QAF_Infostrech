@@ -1,0 +1,15 @@
+Filter.Department.dd=xpath=//android.widget.TextView[@text='Department']
+Filter.AmazonPrime.dd=xpath=//android.widget.TextView[@text='Amazon Prime']
+Filter.PayOnDelivery.dd=xpath=//android.widget.TextView[@text='Pay On Delivery']
+Filter.format.dd=xpath=//android.widget.TextView[@text='Format']
+Filter.Paperback.dd=xpath=//android.widget.TextView[@text='Format']/following::android.widget.TextView[1]
+Filter.Paperback.checkbox=xpath=//android.widget.ScrollView/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup[1]/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup[3]/android.widget.TextView
+Filter.closefilter.dd=xpath=//android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[1]/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[1]
+###Filter.Paperback.dd=xpath=//android.view.ViewGroup[@content-desc="4.5 out of 5 stars,image"]/android.widget.ImageView
+
+
+Filter.sortby.dd=xpath=//android.widget.TextView[@text='Sort by']
+Filter.pricelowtohigh.rb=xpath=//android.widget.TextView[@text='Sort by']/following::android.widget.TextView[3]
+Filter.pricehightolow.rb=xpath=//android.widget.TextView[@text='Sort by']/following::android.widget.TextView[4]
+Filter.lowprice.lbl=xpath=(//android.view.ViewGroup[@content-desc="₹0"])[1]/android.widget.TextView[2]
+Filter.highprice.lbl=xpath=//android.view.ViewGroup[@content-desc="₹20"]/android.widget.TextView[2]

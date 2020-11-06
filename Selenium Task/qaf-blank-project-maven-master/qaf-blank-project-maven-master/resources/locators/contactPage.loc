@@ -1,0 +1,3 @@
+contactpage.contact.lnk=xpath=//td//a[contains(text(),'CONTACT')]
+contactpage.construction.txt=xpath=//*[text()='Sorry         for any inconvienece.']
+contactpage.backtohome.btn=xpath=//img[contains(@src,'/images/forms/home.gif')]

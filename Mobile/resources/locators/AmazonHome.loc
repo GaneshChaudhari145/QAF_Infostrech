@@ -1,0 +1,9 @@
+SkipSignIn.landing.btn=xpath=//android.widget.Button[@text='Skip sign in']
+AlreadyCustomer.landing.btn=xpath=//android.widget.Button[@text='Already a customer? Sign in']
+home.menu.lnk=id=in.amazon.mShop.android.shopping:id/action_bar_burger_icon
+home.SignIn.option=id=in.amazon.mShop.android.shopping:id/action_bar_home_logo
+home.home.menu=xpath=//android.widget.TextView[@text='Home']
+home.shopcategory.menu=xpath=//android.widget.TextView[@text='Shop by Category']
+home.Todaysdeals.menu=xpath=//android.widget.TextView[@text=\"Today's Deals\"]
+home.search.edittext=xpath=//android.widget.EditText[@text='Search']
+home.deliverylocation.txt=xpath=//android.widget.TextView[@text='Select a location to see product availability']

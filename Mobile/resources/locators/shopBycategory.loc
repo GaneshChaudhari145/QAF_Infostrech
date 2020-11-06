@@ -1,0 +1,38 @@
+Shop.shopcategory.btn=id=web_home_shop_by_department_label
+Shop.mensfashion.menu=xpath=//android.view.View[@text=\"Men's Fashion\"]
+Shop.mensAmazonFashion.option=xpath=//android.view.View[@text='Amazon Fashion']
+Shop.mensFashionfootwear.option=xpath=//android.view.View[@text='footwear']
+Shop.menssportsShoes.lbl=xpath=//android.view.View[@text='Sports Shoes']
+###Shop.mensBourgeShoes.box=className=android.view.ViewGroup
+Shop.share.icon=id=swf-share-icon-container
+Shop.Buynow.btn=id=a-autoid-0
+Shop.addtocart.btn=id=add-to-cart-button
+Shop.mensBourgeShoes.box=xpath=//android.widget.ScrollView/android.view.ViewGroup/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup/android.view.ViewGroup
+Shop.mensbackpacks.option=xpath=//android.view.View[@text='backpacks']
+Shop.mensLaptop.lbl=xpath=//android.view.View[@text='Laptop']
+Shop.mensBestsellerBag.box=xpath=//android.widget.ScrollView/android.view.ViewGroup/android.view.ViewGroup[1]
+Shop.Buynowbagpack.btn=id=a-autoid-1
+##Shop.Shoessize.btn=xpath=//android.view.View[12]/android.view.View[10]/android.view.View[1]/android.view.View/android.widget.Button
+Shop.Shoessize.btn=xpath=//android.widget.Button[@text=' Size: Select Size ']
+##
+This for Squre Box
+Shop.addtosize.box=xpath=//android.widget.ImageView[@content-desc="Deals4you Men's Running Sports Shoes,image"]
+
+##
+This for in List
+
+##Shop.addtosize.box=xpath=//android.widget.ScrollView/android.view.ViewGroup/android.view.ViewGroup[3]/android.view.ViewGroup[1]/android.view.ViewGroup/android.view.ViewGroup
+Shop.size.btn=xpath=//android.widget.Button[@text='9']
+Shop.Done.lbl=xpath=//android.view.View[@text='DONE']
+Shop.mensBestsellerBag.Filterbox=xpath=//android.widget.ScrollView/android.view.ViewGroup/android.view.ViewGroup[1]
+Shop.formalShoes.lbl=xpath=//android.view.View[@text='Formal Shoes']
+Shop.mensFormalShoes.lbl=xpath=//android.view.View/android.view.View/android.view.View[3]/android.view.View[2]/android.view.View[1]/android.view.View[3]
+##This is List
+##Shop.addFormal.box=xpath=//android.widget.ScrollView/android.view.ViewGroup/android.view.ViewGroup[4]/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup
+##This for Squre Box
+Shop.addFormal.box=xpath=//android.widget.ImageView[@content-desc="Digitrendzz Men's Patent Leather Formal Shoes for Men's Formal Shoes,image"]
+Shop.formalsize.btn=xpath=//android.widget.Button[@text=' Size: Select Size ']
+##//android.view.View[11]/android.view.View[12]/android.view.View[1]/android.view.View/android.widget.Button
+
+
+

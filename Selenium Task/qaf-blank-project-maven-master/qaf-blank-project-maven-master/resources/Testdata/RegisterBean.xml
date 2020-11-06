@@ -1,0 +1,19 @@
+<root>
+	<data>
+		<register>
+			<user>
+				<firstname>Elena</firstname>
+				<lastname>Gilbert</lastname>
+				<phone>1234567890</phone>
+				<Email>abc@gmail.com</Email>
+				<address>flat-007, baker street-202, west side</address>
+				<city>New York</city>
+				<state>New York</state>
+				<pincode>12345</pincode>
+				<country>UNITED STATES</country>
+				<username>Elena123</username>
+				<password>Elena123</password>
+			</user>
+		</register>
+	</data>
+</root>
